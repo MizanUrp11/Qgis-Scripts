@@ -1,0 +1,1 @@
+if(attribute( $currentfeature ,'OBJECTID') = 0,attribute( $currentfeature ,'length'),attribute(get_feature_by_id( @layer_name ,$Id-1),'cumulative')+attribute($currentfeature,'length'))

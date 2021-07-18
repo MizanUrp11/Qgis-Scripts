@@ -1,6 +1,6 @@
 import os
 from qgis.core import (QgsVectorLayer)
-basePath = "D:/Gas Network Project/From Sinan Vai/15.07.2021__CGR Survey Data Check/Line Wise Data/16.Bakhrabad-Siddhirgonj"
+basePath = "D:/Gas Network Project/From Sinan Vai/15.07.2021__CGR Survey Data Check/Line Wise Data/17.Monohordi-Dhanua_Elenga-Bangabandhu-Bridge-East"
 path_to_line_layer = basePath+"/Line/GT-P-300-BS-30_line.shp"
 path_to_point_layer1 = basePath+"/Shapefile/GT-P-300-BS-30.shp"
 path_to_point_layer2 = basePath+"/Shapefile/GT-P-300-BS-30_CP.shp"
