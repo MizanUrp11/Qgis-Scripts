@@ -4,7 +4,8 @@
 - Get unique values from any attribute table
 - Adding Cumulative following accending order
 
-#Smallworld update Script
+## Smallworld Scripts
+- Delete copy and pasting script
 ...Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
 ...Now run the SmallworldEnvUpdate.bat from anywhere.
 ...[N.B. You must have Smallworld installed]
