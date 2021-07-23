@@ -5,7 +5,7 @@
 - Adding Cumulative following accending order
 
 ## Smallworld Scripts
-1. Delete copy and pasting script
+Delete copy and pasting script
 Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
 Now run the SmallworldEnvUpdate.bat from anywhere.
 > You must have Smallworld installed
