@@ -6,6 +6,6 @@
 
 ## Smallworld Scripts
 1. Delete copy and pasting script
-...Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
-...Now run the SmallworldEnvUpdate.bat from anywhere.
+Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
+Now run the SmallworldEnvUpdate.bat from anywhere.
 > You must have Smallworld installed
