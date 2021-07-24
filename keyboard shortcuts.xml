@@ -1,0 +1,26 @@
+<!DOCTYPE shortcuts>
+<qgsshortcuts version="1.0" locale="en_US">
+    <act name="Add raster for interactive georeferencing" shortcut="A"/>
+    <act name="Copy and Move Feature(s)" shortcut="C"/>
+    <act name="Enable Tracing" shortcut=""/>
+    <act name="Georeference raster with 2 points" shortcut="2"/>
+    <act name="Georeferencer…" shortcut="G"/>
+    <act name="Hide Selected Layers" shortcut=""/>
+    <act name="Keyboard Shortcuts…" shortcut="Ctrl+Alt+Shift+S"/>
+    <act name="Labeling" shortcut="Shift+L"/>
+    <act name="Layer Properties…" shortcut="P"/>
+    <act name="Layer Styling" shortcut="L"/>
+    <act name="Merge Selected Features" shortcut="M"/>
+    <act name="Move raster" shortcut="Shift+M"/>
+    <act name="Open Attribute Table" shortcut="T"/>
+    <act name="Select Feature(s)" shortcut="W"/>
+    <act name="Show Selected Layers" shortcut="Shift+H"/>
+    <act name="Show Spatial Bookmark Manager" shortcut="Shift+B"/>
+    <act name="ShowBrowserPanel" shortcut="B"/>
+    <act name="Split Features" shortcut="S"/>
+    <act name="Toggle Editing" shortcut="E"/>
+    <act name="Toggle Selected Layers" shortcut="Space"/>
+    <act name="Toggle Snapping" shortcut="Shift+S"/>
+    <act name="Vertex Tool (All Layers)" shortcut="V"/>
+    <act name="Zoom to Layer" shortcut="Z"/>
+</qgsshortcuts>
