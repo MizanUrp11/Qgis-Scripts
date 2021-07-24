@@ -13,6 +13,6 @@ Now run the SmallworldEnvUpdate.bat from anywhere.
 
 > You must have Smallworld installed
 ## Custom Keyboard Shortcuts for Qgis
-Markdown | Less | Pretty
---- | --- | ---
-1 | 2 | 3
+Description | Keyboard Shortcuts
+--- | --- 
+1 | 2 
