@@ -13,6 +13,9 @@ Now run the SmallworldEnvUpdate.bat from anywhere.
 
 > You must have Smallworld installed
 ## Keyboard Shortcut documentation
+Usage:
+Settings > Keyboard Shortcuts > Load
+
 Description | Keyboard Shortcuts
 --- | --- 
 Toggle Editing | E
