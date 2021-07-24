@@ -12,3 +12,7 @@ Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env
 Now run the SmallworldEnvUpdate.bat from anywhere.
 
 > You must have Smallworld installed
+## Custom Keyboard Shortcuts for Qgis
+Markdown | Less | Pretty
+--- | --- | ---
+1 | 2 | 3
