@@ -8,9 +8,10 @@
 
 - Place the latest update unzipped files in D:\latest_env\
 - Now Double click the SmallworldEnvUpdate.bat
-- After running the .bat run F2>Z>>use up arrow to find[] gis –i build_open_google_add_on-cli >>
+- After completion press F2 > Z >> Press (up) key and find ‘[] gis –i build_closed_swaf -cli’ >> Enter
+- Then press F2>Z>>use up arrow to find [] gis –i build_open_google_add_on-cli >> Enter
 - Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
-- Double Click on ‘Bangladesh Google Add On Application’
+- Double Click on ‘Bangladesh Google Add On Application’ to start
 > You must have Smallworld installed
 
 ## Keyboard Shortcut documentation
