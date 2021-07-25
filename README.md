@@ -7,9 +7,15 @@
 ## Smallworld Scripts
 Delete copy and pasting script
 
-Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
+Place the latest update unzipped files in D:\latest_env\
 
 Now run the SmallworldEnvUpdate.bat from anywhere.
+
+After running the .bat run F2>Z>>use up arrow to find[] gis –i build_open_google_add_on-cli >>
+
+Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
+
+Double Click on ‘Bangladesh Google Add On Application’
 
 > You must have Smallworld installed
 ## Keyboard Shortcut documentation
