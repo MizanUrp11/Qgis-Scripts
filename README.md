@@ -4,20 +4,15 @@
 - Get unique values from any attribute table
 - Adding Cumulative following accending order
 
-## Smallworld Scripts
-Delete copy and pasting script
+## Smallworld Environment Quick update
 
-Place the latest update unzipped files in D:\latest_env\
-
-Now run the SmallworldEnvUpdate.bat from anywhere.
-
-After running the .bat run F2>Z>>use up arrow to find[] gis –i build_open_google_add_on-cli >>
-
-Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
-
-Double Click on ‘Bangladesh Google Add On Application’
-
+- Place the latest update unzipped files in D:\latest_env\
+- Now Double click the SmallworldEnvUpdate.bat
+- After running the .bat run F2>Z>>use up arrow to find[] gis –i build_open_google_add_on-cli >>
+- Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
+- Double Click on ‘Bangladesh Google Add On Application’
 > You must have Smallworld installed
+
 ## Keyboard Shortcut documentation
 Usage:
 Settings > Keyboard Shortcuts > Load
