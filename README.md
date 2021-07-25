@@ -14,9 +14,9 @@
 - Double Click on ‘Bangladesh Google Add On Application’ to start
 > You must have Smallworld installed
 
-## Keyboard Shortcut documentation
+## Qgis Keyboard Shortcut documentation
 Usage:
-Settings > Keyboard Shortcuts > Load
+> Settings > Keyboard Shortcuts > Load
 
 Description | Keyboard Shortcuts
 --- | --- 
