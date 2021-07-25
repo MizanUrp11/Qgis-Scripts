@@ -7,7 +7,7 @@
 ## Smallworld Environment Quick update
 
 - Place the latest update unzipped files in D:\latest_env\
-- Now Double click the SmallworldEnvUpdate.bat
+- Then download the SmallworldEnvUpdate.bat and Double click to run.
 - After completion press F2 > Z >> Press (up) key and find ‘[] gis –i build_closed_swaf -cli’ >> Enter
 - Then press F2>Z>>use up arrow to find [] gis –i build_open_google_add_on-cli >> Enter
 - Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
