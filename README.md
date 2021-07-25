@@ -16,7 +16,7 @@
 
 ## Qgis Keyboard Shortcut documentation
 Usage:
-> Settings > Keyboard Shortcuts > Load
+> Settings > Keyboard Shortcuts > Load > keyboard shortcuts.xml
 
 Description | Keyboard Shortcuts
 --- | --- 
