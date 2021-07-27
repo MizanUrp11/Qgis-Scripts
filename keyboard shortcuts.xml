@@ -10,6 +10,7 @@
     <act name="Labeling" shortcut="Shift+L"/>
     <act name="Layer Properties…" shortcut="P"/>
     <act name="Layer Styling" shortcut="L"/>
+    <act name="Layout Manager…" shortcut="1"/>
     <act name="Merge Selected Features" shortcut="M"/>
     <act name="Move raster" shortcut="Shift+M"/>
     <act name="Open Attribute Table" shortcut="T"/>
