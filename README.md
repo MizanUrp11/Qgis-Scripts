@@ -48,6 +48,7 @@ Open browser panel | B
 Open spatial bookmark panel | shift + B 
 Open keybord shortcuts | shift + ctrl + alt + S 
 Open Georeferencer | G 
+Open Layout manager | 1
 Add Vector Layer | ctrl + shift + V 
 Add Raster Layer | ctrl + shift + R 
 Toggle show/hide layer | space
