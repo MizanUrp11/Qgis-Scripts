@@ -4,17 +4,19 @@
 - Get unique values from any attribute table
 - Adding Cumulative following accending order
 
-## Smallworld Scripts
-Delete copy and pasting script
+## Smallworld Environment Quick update
 
-Place the latest update unzipped files in I:\Softwares\SmallWorld\Env\latest_env\
-
-Now run the SmallworldEnvUpdate.bat from anywhere.
-
+- Place the latest update unzipped files in D:\latest_env\
+- Then download the SmallworldEnvUpdate.bat and Double click to run.
+- After completion press F2 > Z >> Press (up) key and find ‘[] gis –i build_closed_swaf -cli’ >> Enter
+- Then press F2>Z>>use up arrow to find [] gis –i build_open_google_add_on-cli >> Enter
+- Press(up) key and find ‘[] gis –i bangla_google_add_on-cli’
+- Double Click on ‘Bangladesh Google Add On Application’ to start
 > You must have Smallworld installed
-## Keyboard Shortcut documentation
+
+## Qgis Keyboard Shortcut documentation
 Usage:
-Settings > Keyboard Shortcuts > Load
+> Settings > Keyboard Shortcuts > Load > keyboard shortcuts.xml
 
 Description | Keyboard Shortcuts
 --- | --- 
@@ -46,6 +48,7 @@ Open browser panel | B
 Open spatial bookmark panel | shift + B 
 Open keybord shortcuts | shift + ctrl + alt + S 
 Open Georeferencer | G 
+Open Map Layout manager | 1
 Add Vector Layer | ctrl + shift + V 
 Add Raster Layer | ctrl + shift + R 
 Toggle show/hide layer | space
