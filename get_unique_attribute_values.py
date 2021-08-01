@@ -24,3 +24,4 @@ for columnId in x:
 # Ex-Student, Department of Urban and Regional Planning
 # 01737537277
 # planner.mdmizan@gmail.com
+# Devoloved for QGis 3.16.7-Hannover
