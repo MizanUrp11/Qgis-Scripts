@@ -1,27 +1,31 @@
 <!DOCTYPE shortcuts>
-<qgsshortcuts version="1.0" locale="en_US">
-    <act name="Add raster for interactive georeferencing" shortcut="A"/>
-    <act name="Copy and Move Feature(s)" shortcut="C"/>
-    <act name="Enable Tracing" shortcut=""/>
-    <act name="Georeference raster with 2 points" shortcut="2"/>
-    <act name="Georeferencer…" shortcut="G"/>
-    <act name="Hide Selected Layers" shortcut=""/>
-    <act name="Keyboard Shortcuts…" shortcut="Ctrl+Alt+Shift+S"/>
-    <act name="Labeling" shortcut="Shift+L"/>
-    <act name="Layer Properties…" shortcut="P"/>
-    <act name="Layer Styling" shortcut="L"/>
-    <act name="Layout Manager…" shortcut="1"/>
-    <act name="Merge Selected Features" shortcut="M"/>
-    <act name="Move raster" shortcut="Shift+M"/>
-    <act name="Open Attribute Table" shortcut="T"/>
-    <act name="Select Feature(s)" shortcut="W"/>
-    <act name="Show Selected Layers" shortcut="Shift+H"/>
-    <act name="Show Spatial Bookmark Manager" shortcut="Shift+B"/>
-    <act name="ShowBrowserPanel" shortcut="B"/>
-    <act name="Split Features" shortcut="S"/>
-    <act name="Toggle Editing" shortcut="E"/>
-    <act name="Toggle Selected Layers" shortcut="Space"/>
-    <act name="Toggle Snapping" shortcut="Shift+S"/>
-    <act name="Vertex Tool (All Layers)" shortcut="V"/>
-    <act name="Zoom to Layer" shortcut="Z"/>
+<qgsshortcuts locale="en_US" version="1.0">
+    <act shortcut="" name="Add SpatiaLite Layer…"/>
+    <act shortcut="A" name="Add raster for interactive georeferencing"/>
+    <act shortcut="Shift+C" name="Copy Layer"/>
+    <act shortcut="C" name="Copy and Move Feature(s)"/>
+    <act shortcut="" name="Enable Tracing"/>
+    <act shortcut="2" name="Georeference raster with 2 points"/>
+    <act shortcut="G" name="Georeferencer…"/>
+    <act shortcut="" name="Hide Selected Layers"/>
+    <act shortcut="Ctrl+Alt+Shift+S" name="Keyboard Shortcuts…"/>
+    <act shortcut="Shift+L" name="Labeling"/>
+    <act shortcut="P" name="Layer Properties…"/>
+    <act shortcut="L" name="Layer Styling"/>
+    <act shortcut="1" name="Layout Manager…"/>
+    <act shortcut="Q" name="Measure Angle"/>
+    <act shortcut="M" name="Merge Selected Features"/>
+    <act shortcut="Shift+M" name="Move raster"/>
+    <act shortcut="T" name="Open Attribute Table"/>
+    <act shortcut="W" name="Select Feature(s)"/>
+    <act shortcut="Shift+H" name="Show Selected Layers"/>
+    <act shortcut="Shift+B" name="Show Spatial Bookmark Manager"/>
+    <act shortcut="B" name="ShowBrowserPanel"/>
+    <act shortcut="Ctrl+Shift+L" name="ShowLayersPanel"/>
+    <act shortcut="S" name="Split Features"/>
+    <act shortcut="E" name="Toggle Editing"/>
+    <act shortcut="Space" name="Toggle Selected Layers"/>
+    <act shortcut="Shift+S" name="Toggle Snapping"/>
+    <act shortcut="V" name="Vertex Tool (All Layers)"/>
+    <act shortcut="Z" name="Zoom to Layer"/>
 </qgsshortcuts>
