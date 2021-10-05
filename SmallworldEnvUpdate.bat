@@ -33,6 +33,6 @@ xcopy D:\latest_env\ds\ds_survey C:\SW_Data\bangladesh\bangladesh\ds\ds_survey /
 xcopy D:\latest_env\ds\ds_tgtdcl C:\SW_Data\bangladesh\bangladesh\ds\ds_tgtdcl /E/H/C/I
 xcopy D:\latest_env\ds\ds_winnap C:\SW_Data\bangladesh\bangladesh\ds\ds_winnap /E/H/C/I
 xcopy D:\latest_env\ds\ds_wn_kgdcl C:\SW_Data\bangladesh\bangladesh\ds\ds_wn_kgdcl /E/H/C/I
-
+del /f/s/q "C:\SW_Source\images" > nul
 cd C:\SW_Source\bangladesh430\bangladesh\scripts
 emacs_bangla430_sa.bat
